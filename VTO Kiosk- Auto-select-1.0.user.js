@@ -3,7 +3,7 @@
 // @namespace    https://example.local
 // @version      1.0
 // @description  Automatically selects DKY6 from the site dropdown and submits/enters it
-// @match        *://*/*
+// @match        https://aft-ls-associateweb.na.aft.amazonoperations.app/kiosk-interest/
 // @author       jackbehm
 // @run-at       document-idle
 // @grant        none
